@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[26,)"
+license="GGPL3"
+issueTrackerURL="https://github.com/Lance5057"
+[[mods]]
+modId="illages"
+version="${file.jarVersion}"
+displayName="Illages"
+displayURL="https://github.com/Lance5057"
+credits="Alan199921, DivineAspect, Skysom, FreneticScribbler, Lanse505, Belathus, RoyalJelly"
+authors="Lance5057"
